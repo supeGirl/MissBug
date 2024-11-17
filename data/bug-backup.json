@@ -1,0 +1,170 @@
+[
+    {
+        "_id": "bug001",
+        "title": "Login page crashes",
+        "description": "The login page crashes when clicking submit with an empty password.",
+        "severity": 3,
+        "createdAt": 1609459200000,
+        "labels": [
+            "critical",
+            "need-CR",
+            "dev-branch"
+        ],
+        "creator": {
+            "_id": "u101",
+            "fullname": "John Doe"
+        },
+        "owner": {
+            "_id": "u101",
+            "fullname": "John Doe"
+        },
+        "updatedAt": 1730741045437
+    },
+    {
+        "_id": "bug002",
+        "title": "Profile image not loading",
+        "description": "User profile image fails to load on the dashboard.",
+        "severity": 2,
+        "createdAt": 1612137600000,
+        "labels": [
+            "UI",
+            "low-priority",
+            "frontend"
+        ],
+        "owner": {
+            "_id": "u102",
+            "fullname": "Alice Smith"
+        },
+        "updatedAt": 1730740600571
+    },
+    {
+        "_id": "bug003",
+        "title": "Unable to update settings",
+        "description": "Settings page does not save changes to user preferences.",
+        "severity": 5,
+        "createdAt": 1614556800000,
+        "labels": [
+            "settings",
+            "high-priority",
+            "backend"
+        ],
+        "owner": {
+            "_id": "u103",
+            "fullname": "Bob Williams"
+        },
+        "updatedAt": 1730740607552
+    },
+    {
+        "_id": "bug004",
+        "title": "Error message displayed incorrectly",
+        "description": "Error message alignment is incorrect in the signup form.",
+        "severity": 4,
+        "createdAt": 1617235200000,
+        "labels": [
+            "UI",
+            "cosmetic",
+            "signup"
+        ],
+        "owner": {
+            "_id": "u104",
+            "fullname": "Cathy Kim"
+        }
+    },
+    {
+        "_id": "bug005",
+        "title": "Search functionality not responsive",
+        "description": "Search bar does not respond to input on mobile devices.",
+        "severity": 2,
+        "createdAt": 1622505600000,
+        "labels": [
+            "mobile",
+            "UX",
+            "search"
+        ],
+        "owner": {
+            "_id": "u105",
+            "fullname": "Derek Singh"
+        }
+    },
+    {
+        "_id": "bug006",
+        "title": "Notifications not displaying",
+        "description": "User notifications fail to show up on the notifications panel.",
+        "severity": 3,
+        "createdAt": 1625097600000,
+        "labels": [
+            "notifications",
+            "backend",
+            "medium-priority"
+        ],
+        "owner": {
+            "_id": "u101",
+            "fullname": "John Doe"
+        }
+    },
+    {
+        "_id": "bug007",
+        "title": "Page layout broken on IE11",
+        "description": "The dashboard layout appears distorted on Internet Explorer 11.",
+        "severity": 4,
+        "createdAt": 1627776000000,
+        "labels": [
+            "browser-compatibility",
+            "low-priority",
+            "UI"
+        ],
+        "owner": {
+            "_id": "u102",
+            "fullname": "Alice Smith"
+        }
+    },
+    {
+        "_id": "bug008",
+        "title": "File upload fails",
+        "description": "Uploading files larger than 5MB results in an error message.",
+        "severity": 1,
+        "createdAt": 1630454400000,
+        "labels": [
+            "file-upload",
+            "high-priority",
+            "backend"
+        ],
+        "owner": {
+            "_id": "u103",
+            "fullname": "Bob Williams"
+        }
+    },
+    {
+        "_id": "bug009",
+        "title": "Dark mode not applied",
+        "description": "Dark mode setting does not apply to all sections of the application.",
+        "severity": 2,
+        "createdAt": 1633046400000,
+        "labels": [
+            "UI",
+            "theme",
+            "frontend"
+        ],
+        "owner": {
+            "_id": "u104",
+            "fullname": "Cathy Kim"
+        }
+    },
+    {
+        "_id": "bug010",
+        "title": "Form validation bypass",
+        "description": "Form allows submission with empty required fields.",
+        "severity": 1,
+        "createdAt": 1635724800000,
+        "updateAt": 1730317869857,
+        "labels": [
+            "validation",
+            "high-priority",
+            "frontend"
+        ],
+        "owner": {
+            "_id": "u105",
+            "fullname": "Derek Singh"
+        }
+    }
+]

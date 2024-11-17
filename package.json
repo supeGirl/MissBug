@@ -1,0 +1,25 @@
+{
+  "name": "missbug",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon --ignore \".data\" server.js"
+  },
+  "author": "Keren Vasserman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cookie-parser": "^1.4.7",
+    "cryptr": "^6.3.0",
+    "express": "^4.21.1",
+    "pdfkit": "^0.15.1",
+    "pdfkit-table": "^0.1.99"
+  },
+  "description": ""
+}

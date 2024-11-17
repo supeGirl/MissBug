@@ -1,0 +1,45 @@
+[
+  {
+    "username": "supagirl",
+    "password": "123654",
+    "fullname": "Keren vasserman",
+    "_id": "a100",
+    "isAdmin":true
+  },
+  {
+    "_id": "u101",
+    "username": "jdoe",
+    "fullname": "John Doe",
+    "password": "jdoe123",
+    "score": 120
+  },
+  {
+    "_id": "u102",
+    "username": "asmith",
+    "fullname": "Alice Smith",
+    "password": "alicePass",
+    "score": 95
+  },
+  {
+    "_id": "u103",
+    "username": "bwilliams",
+    "fullname": "Bob Williams",
+    "password": "bobSecure",
+    "score": 105
+  },
+  {
+    "_id": "u104",
+    "username": "ckim",
+    "fullname": "Cathy Kim",
+    "password": "cathySecret",
+    "score": 98
+  },
+  {
+    "_id": "u105",
+    "username": "dsingh",
+    "fullname": "Derek Singh",
+    "password": "derek789",
+    "score": 110
+  }
+
+]

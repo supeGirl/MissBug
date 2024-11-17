@@ -1,0 +1,51 @@
+header {
+    background-color: var(--primary-color);
+    padding: 0.8rem;
+    border-radius: 3px;
+    border: 1px solid var(--primary-color);
+    border-top: none;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+ 
+  header .logo {
+    width: 3rem;
+    cursor: pointer;
+    margin-inline-end: 1rem;
+  }
+  
+  header h1 {
+    font-size: 3rem;
+    color: var(--seconde-light);
+    font-family: cursive;
+  }
+  
+  .login {
+    width: 25rem;
+    border-radius: 9px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    transition: all 1s;
+  }
+  
+  .login .btn {
+    padding: 8px;
+  }
+  
+  .form {
+    margin-top: 1.4rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  .form input {
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 3px;
+  }

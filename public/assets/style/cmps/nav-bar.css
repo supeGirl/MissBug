@@ -1,0 +1,60 @@
+.nav-bar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-medium3);
+  background-color: var(--primary-color);
+  color: var(--seconde-light);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-bar-container nav {
+  display: flex;
+  gap: var(--spacing-medium);
+}
+
+.nav-bar-container nav a {
+  text-decoration: none;
+  color: var(--seconde-light);
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-bar-container nav a:hover {
+  color: var(--gray6);
+}
+
+.nav-bar-container h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--seconde-light);
+}
+
+.nav-bar-container section {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-small);
+}
+
+.nav-bar-container section a {
+  text-decoration: none;
+  color: var(--seconde-light);
+  font-weight: bold;
+}
+
+.nav-bar-container section button {
+  padding: var(--spacing-smallest) var(--spacing-medium);
+  font-size: 0.9rem;
+  background-color: var(--primary-light);
+  color: var(--seconde-color);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.nav-bar-container section button:hover {
+  background-color: var(--seconde-light);
+  color: var(--seconde-color);
+}

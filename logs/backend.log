@@ -1,0 +1,52 @@
+29.10.2024, 18:47:52 - ERROR - Cannot get bug | Cannot find bug - bu001
+30.10.2024, 18:55:34 - ERROR - Cannot get bug | Cannot find bug - bu001
+30.10.2024, 22:03:27 - ERROR - User visited more than 3 bugs: bug001,bug002,bug003,bug004
+4.11.2024, 16:46:42 - ERROR - Cannot get bug | Cannot find bug - save
+4.11.2024, 16:46:52 - ERROR - Cannot get bug | Cannot find bug - save
+4.11.2024, 16:48:06 - ERROR - Cannot get bug | Cannot find bug - save
+4.11.2024, 16:50:36 - ERROR - Cannot get bug | Cannot find bug - save
+4.11.2024, 16:55:06 - ERROR - Cannot get bug | Cannot find bug - save
+4.11.2024, 17:02:28 - INFO - {"title":"test","severity":2}
+4.11.2024, 17:03:46 - INFO - {"title":"tst","severity":2}
+4.11.2024, 17:03:46 - INFO - {"_id":"bug90114","minSeverity":null,"createdAt":1730732626139}
+4.11.2024, 17:08:28 - INFO - {"title":"test","severity":2}
+4.11.2024, 17:08:28 - INFO - {"_id":"bug84732","txt":"test","minSeverity":2,"label":"","createdAt":1730732908320}
+4.11.2024, 17:09:06 - INFO - {"title":"test","severity":2}
+4.11.2024, 17:09:06 - INFO - {"_id":"bug35856","txt":"test","minSeverity":2,"label":"","createdAt":1730732946244}
+4.11.2024, 17:12:22 - INFO - {"title":"test","severity":2}
+4.11.2024, 18:44:30 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:46:02 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:46:05 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:46:06 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:46:11 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:48:17 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:48:30 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:48:30 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:48:36 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:48:37 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:49:00 - INFO - {"txt":"","minSeverity":0,"label":"UI","pageIdx":"0"}
+4.11.2024, 18:49:09 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:49:14 - INFO - {"txt":"","minSeverity":0,"label":"UI","pageIdx":"0"}
+4.11.2024, 18:49:15 - INFO - {"txt":"","minSeverity":0,"label":"U","pageIdx":"0"}
+4.11.2024, 18:49:16 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:49:17 - INFO - {"txt":"","minSeverity":0,"label":"s","pageIdx":"0"}
+4.11.2024, 18:49:17 - INFO - {"txt":"","minSeverity":0,"label":"si","pageIdx":"0"}
+4.11.2024, 18:49:17 - INFO - {"txt":"","minSeverity":0,"label":"sin","pageIdx":"0"}
+4.11.2024, 18:49:18 - INFO - {"txt":"","minSeverity":0,"label":"sing","pageIdx":"0"}
+4.11.2024, 18:49:19 - INFO - {"txt":"","minSeverity":0,"label":"sin","pageIdx":"0"}
+4.11.2024, 18:49:20 - INFO - {"txt":"","minSeverity":0,"label":"si","pageIdx":"0"}
+4.11.2024, 18:49:20 - INFO - {"txt":"","minSeverity":0,"label":"s","pageIdx":"0"}
+4.11.2024, 18:49:20 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:49:24 - INFO - {"txt":"","minSeverity":0,"label":"s","pageIdx":"0"}
+4.11.2024, 18:49:24 - INFO - {"txt":"","minSeverity":0,"label":"si","pageIdx":"0"}
+4.11.2024, 18:49:25 - INFO - {"txt":"","minSeverity":0,"label":"sig","pageIdx":"0"}
+4.11.2024, 18:49:26 - INFO - {"txt":"","minSeverity":0,"label":"si","pageIdx":"0"}
+4.11.2024, 18:49:26 - INFO - {"txt":"","minSeverity":0,"label":"s","pageIdx":"0"}
+4.11.2024, 18:49:26 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:49:34 - INFO - {"txt":"","minSeverity":0,"label":"need-CR","pageIdx":"0"}
+4.11.2024, 18:49:36 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:59:43 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0"}
+4.11.2024, 18:59:43 - INFO - {"txt":"","minSeverity":"0","label":"","sortField":"","sortDir":"1","pageIdx":"0","sortBy":"title"}
+4.11.2024, 19:02:58 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0","sortField":"","sortDir":"1"}
+4.11.2024, 19:03:31 - INFO - {"txt":"","minSeverity":0,"label":"","pageIdx":"0","sortField":"","sortDir":"1"}
+12.11.2024, 16:11:53 - ERROR - Cannot load user | User not found!

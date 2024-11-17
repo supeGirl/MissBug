@@ -1,0 +1,96 @@
+.bug-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+  gap: var(--spacing-medium3);
+  padding: var(--spacing-medium3);
+  list-style: none;
+}
+
+.bug-preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--spacing-medium2);
+  gap: var(--spacing-smallest);
+  background-color: var(--primary-light);
+  border-radius: 9px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.bug-preview:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.bug-details {
+  width: 100%;
+}
+
+.bug-details .title {
+  text-align: center;
+  margin-bottom: var(--spacing-small);
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--gray2);
+}
+
+.bug-details .img {
+  font-size: 2rem;
+  margin-bottom: var(--spacing-medium);
+}
+
+.bug-details .severity {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.severity1 {
+  color: var(--error); 
+}
+
+.severity2 {
+  color: var(--primary-color);
+}
+
+.severity3 {
+  color: var(--success);
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--spacing-small);
+  width: 100%;
+  margin-block: 10px;
+}
+
+.actions button {
+  padding: var(--spacing-smallest) var(--spacing-medium);
+  font-size: 0.8rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: var(--gray2);
+  color: var(--gray6);
+  transition: background-color 0.2s ease;
+}
+
+.actions button:hover {
+  background-color: var(--primary-color);
+  color: var(--primary-light);
+}
+
+.actions a {
+  text-decoration: none;
+  color: var(--primary-color);
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+.actions a:hover {
+  color: var(--primary-light);
+}
